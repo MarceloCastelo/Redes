@@ -32,5 +32,5 @@ def process_tcp_packet(packet):
         print(f"Opções: {tcp_packet.options}")
         data = packet.payload
         print(f"Dados: {data}")
-
-sniff(filter="tcp", prn=process_tcp_packet, count=1)
+        print(f"///////////////////////////////////////")
+sniff(filter="tcp", prn=process_tcp_packet)
