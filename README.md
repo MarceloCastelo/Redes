@@ -20,8 +20,8 @@ download python: https://www.python.org/downloads/
 
 ## 👷 Autores
 
-* **Marcelo Castelo Branco** - *Desenvolvedor* - [marcelo_Castelo](https://github.com/MarceloCastelo)
-* 
+* **Marcelo Castelo Branco** - *Desenvolvedor* - [GitHub](https://github.com/MarceloCastelo)
+  
 ## 💡 Expressões de gratidão
 
 * Obrigado pelo interesse!
